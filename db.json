@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "EmployeeID": "EMPWPT1438",
+      "FirstName": "riz",
+      "LastName": "sk",
+      "EmailId": "rizwana@gmail.com",
+      "MobileNO": "1234567890",
+      "salary": "10000"
+    },
+    {
+      "EmployeeID": "EMPWPT1441",
+      "FirstName": "naresh",
+      "LastName": "yerra",
+      "EmailId": "naresh@gmail.com",
+      "MobileNO": "1234567890",
+      "salary": 5575,
+      "id": 2
+    },
+    {
+      "EmployeeID": "EMPWPT1435",
+      "FirstName": "vijay",
+      "LastName": "kumar",
+      "EmailId": "vijay@gmail.com",
+      "MobileNO": "1234567892",
+      "salary": 100000,
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
